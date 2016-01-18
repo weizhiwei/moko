@@ -23,4 +23,9 @@ dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:appcompat-v7:22.2.1'
+    compile 'com.android.support:design:22.2.1'
+    compile 'dev.dworks.libs:volleyplus:+'
+    compile 'in.srain.cube:grid-view-with-header-footer:1.0.12'
+    compile 'com.android.support:support-v4:22.2.1'
+    compile 'com.astuetz:pagerslidingtabstrip:1.0.1'
 }
